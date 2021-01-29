@@ -1,4 +1,4 @@
-import info from "../info.json"
+import info from "../info"
 
 class RuleController {
     static async base(req, res) {
