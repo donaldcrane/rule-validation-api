@@ -1,4 +1,3 @@
-import { string } from "joi";
 import info from "../info.json"
 
 class RuleController {
