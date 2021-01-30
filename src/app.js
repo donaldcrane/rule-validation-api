@@ -1,6 +1,6 @@
 import express from "express";
 import dotenv from "dotenv";
-import RuleController from "./controllers/rateController";
+import RuleController from "./controllers/ruleController";
 
 dotenv.config();
 

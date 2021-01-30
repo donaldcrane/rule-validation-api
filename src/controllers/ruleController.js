@@ -48,7 +48,6 @@ class RuleController {
           data: null
         });
       }
-      console.log(typeof req.body);
 
       if (typeof rule !== "object") {
         return res.status(400).json({
